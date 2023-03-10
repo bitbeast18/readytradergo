@@ -1,0 +1,8 @@
+cmake-build-debug
+build
+*.exe
+
+.idea
+.vscode
+__pycache__
+
